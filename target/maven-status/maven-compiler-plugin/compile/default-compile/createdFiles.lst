@@ -1,0 +1,8 @@
+br\edu\unipam\entity\Tarefa.class
+br\edu\unipam\entity\AbstractEntity.class
+br\edu\unipam\entity\Usuario.class
+br\edu\unipam\apptodo\SampleResource.class
+br\edu\unipam\apptodo\JAXRSConfiguration.class
+br\edu\unipam\apptodo\SampleResource$1.class
+br\edu\unipam\service\TarefaService.class
+br\edu\unipam\service\UsuarioService.class
